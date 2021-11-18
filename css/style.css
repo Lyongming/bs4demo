@@ -1,0 +1,51 @@
+ul,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.rleft {
+	left: 12rem;
+	top: 3.5rem;
+	bottom: 0;
+	right: 0;
+}
+
+.box {
+	position: absolute;
+	left: 0px;
+	width: 12rem;
+	height: 100%;
+	background-color: #283643;
+	box-sizing: content-box;
+}
+
+.topa {
+	margin-top: 3.5rem;
+}
+
+.box a {
+	padding: 0 2rem;
+	height: 3rem;
+	line-height: 3rem;
+}
+
+.box li {
+	height: 3rem;
+	line-height: 3rem;
+}
+
+.active1 {
+	background-color: #3C4248;
+}
+
+.box li:hover {
+	background-color: #3c4248;
+}
+
+.th6 {
+			height: 3rem;
+			line-height: 3rem;
+			color: #6c757d;
+			border-bottom: 2px solid #E9ECEF;
+		}
